@@ -1,6 +1,6 @@
 # Hello, I'm DontEatOreo 👋
 
-I'm a software developer from Bulgaria 🇧🇬. I love creating tools and APIs that make life easier for myself and others. I also enjoy learning new technologies and exploring new ideas.
+I'm a programmer from Bulgaria 🇧🇬. I like to create CLI tools and API's that make life just a bit nicer and easier for myself and others.
 
 ## 📫 Contact Me
 
