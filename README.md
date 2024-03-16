@@ -43,9 +43,9 @@ You can reach out to me via email at:
 
 - **C#**: C# is the language that essentially bootstrapped me into programming. Back in the summer of **2022**, I started working on a Discord bot in C# while my friend was building the API for it using ASP.NET. Over the next few months, I started learning programming at a really quick pace and quickly started loving the language, as I was able to do things that were useful to me right from the start while still maintaining good performance and customizability. Later on I started experimenting with ASP.NET which I quickly began to love too as I was able to leverage my knowledge from building the Discord Bot into making API's.
 
-## 🚀 My Journey
+## 🚀 My Journies
 
-For a look at my experiences and growth in the tech field, visit [My Journey](./Journies.md).
+For a look at my experiences and growth in the tech field, visit [My Journies](./Journies.md).
 
 ## 📚 Other Stuff
 
