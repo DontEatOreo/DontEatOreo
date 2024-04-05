@@ -17,8 +17,8 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           user: DontEatOreo
-          template: classic
-          base: header, activity, community, repositories
+          template: terminal
+          base: header, metadata, activity, community, repositories
           config_animations: yes
           config_timezone: Europe/Sofia
           optimize: no
