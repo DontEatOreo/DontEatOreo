@@ -1,6 +1,6 @@
 # Hello, I'm DontEatOreo 👋
 
-I'm a programmer from Bulgaria 🇧🇬. I like to create CLI tools and API's that make life just a bit nicer and easier for myself and others.
+And I'm from Bulgaria 🇧🇬. I spend my free time tinkering with my own and existing CLI tools to make my life easier, and do things better and faster.
 
 ## 📫 Contact Me
 
