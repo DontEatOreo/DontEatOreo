@@ -34,6 +34,7 @@ jobs:
           base_indepth: yes
           config_octicon: yes
           config_timezone: Europe/Sofia
+          use_prebuilt_image: yes
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_ignored: explorer, infographile, member, worker, verified
