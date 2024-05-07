@@ -62,7 +62,7 @@ jobs:
           plugin_lines_sections: base
           plugin_reactions: yes
           plugin_repositories: yes
-          plugin_repositories_featured: DontEatOreo/WhisperAPI, DontEatOreo/dis, DontEatOreo/nix-dotfiles
+          plugin_repositories_featured: DontEatOreo/WhisperAPI, DontEatOreo/DougaBot, DontEatOreo/DougaAPI,  DontEatOreo/dis, DontEatOreo/nix-dotfiles, NixOS/nixpkgs
           plugin_repositories_order: featured, pinned, starred, random
           plugin_traffic: yes
           plugin_traffic_skipped: DontEatOreo/nixpkgs
