@@ -1,7 +1,5 @@
 # Hello, I'm DontEatOreo 👋
 
-And I'm from Bulgaria 🇧🇬. I spend my free time tinkering with my own and existing CLI tools to make my life easier, and do things better and faster.
-
 ## 📫 Contact Me
 
 You can reach out to me via email at:
