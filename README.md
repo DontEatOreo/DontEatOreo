@@ -23,7 +23,7 @@ You can reach out to me via email at:
 
 ## Browsers
 
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?&style=for-the-badge&logo=Firefox&logoColor=white)
+[![Zen Browser](https://img.shields.io/badge/Zen%20Browser-F76F53?logo=zenbrowser&logoColor=fff)](#)
 ![Brave](https://img.shields.io/badge/Brave-FB542B?&style=for-the-badge&logo=Brave&logoColor=white)
 
 ## 📊 My stats
