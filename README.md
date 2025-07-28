@@ -17,6 +17,7 @@ You can reach out to me via email at:
 
 ![Helix](https://img.shields.io/badge/Helix-706bc8?&style=for-the-badge&logo=helix&logoColor=white)
 
+[![Zed](https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF)](#)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
