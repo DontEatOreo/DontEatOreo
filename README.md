@@ -30,38 +30,3 @@ You can reach out to me via email at:
 
 ![Metrics](https://raw.githubusercontent.com/DontEatOreo/DontEatOreo/main/github-metrics.svg)
 
-## 🌱 I’m currently learning
-
-![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
-![NixOS](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
-
-- **Nix and NixOS**: I'm really passionate about Nix, a purely functional
-package manager and a language that allows for reproducible and declarative
-configurations. My favorite Linux distro is [NixOS](https://nixos.org/), which
-is built on top of Nix. My daily driver is a Mac Mini M1 that's managed with
-[Nix-Darwin](https://github.com/LnL7/nix-darwin), and my laptop is running
-NixOS.
-
-- Check out my [nix-dotfiles](https://github.com/DontEatOreo/nix-dotfiles)
-
-## 💻 My favorite language
-
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-
-- **C#**: C# is the language that essentially bootstrapped me into programming.
-Back in the summer of **2022**, I started working on a Discord bot in C# while
-my friend was building the API for it using ASP.NET. Over the next few months,
-I started learning programming at a really quick pace and quickly started loving
-the language, as I was able to do things that were useful to me right from the
-start while still maintaining good performance and customizability. Later on I
-started experimenting with ASP.NET which I quickly began to love too as I was
-able to leverage my knowledge from building the Discord Bot into making API's.
-
-## 🚀 My Journies
-
-For a look at my experiences and growth in the tech field, visit [My Journies](./Journies.md).
-
-## 📚 Other Stuff
-
-For more of my thoughts and writings on various topics, check out [Other Stuff](./Other_Stuff.md)
